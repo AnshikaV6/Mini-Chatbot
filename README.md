@@ -33,7 +33,7 @@ Example of the dictionary used as the chatbot's memory:
 - *Core concepts:* dictionary, functions, loops, conditionals, string methods
 - *Interface:* Command line
 
-# How to run
+### How to run
 1. Make sure Python 3 is installed.
 2. Clone the repository:
 
