@@ -37,7 +37,7 @@ Example of the dictionary used as the chatbot's memory:
 1. Make sure Python 3 is installed.
 2. Clone the repository:
 
-       git clone https://github.com/yourusername/your-repo-name.git
+       git clone https://github.com/AnshikaV6/your-repo-name.git
 
 3. Go to the project folder:
 
@@ -66,4 +66,4 @@ Example of the dictionary used as the chatbot's memory:
 - Save conversation history
 
 ### Author
-Anshika Vishwakarma| Computer Science and Engineering student
+Anshika Vishwakarma | Computer Science and Engineering student
