@@ -1,5 +1,4 @@
 import datetime
-import time
 
 
 print("Namaste! Welcome to Gluco AI Chatbot")
@@ -23,7 +22,7 @@ else:
 responses={
     "hello":"Hi,Welcome!  How can I help you?",
     "how are you":"I am good! What about you?",
-    "who are you ":"I am a Smart AI Chatbot made by Anshika ",
+    "who are you":"I am a Smart AI Chatbot made by Anshika ",
     "motivate me":"Sure,Keep going! because Every small effort of yours can make a huge change if repeated again and again",
     "happy":"Great to hear that ",
     "what is python":"python is a programming language that is very popular in coding world ",
@@ -47,5 +46,5 @@ while True:
     reply=getResponseOfBot(userinput)
     print(reply)
     if userinput.lower()== "bye":
-        print("Thanks to talk me")
+        print("Thanks for talking to me")
         break
